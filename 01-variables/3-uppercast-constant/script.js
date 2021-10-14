@@ -3,3 +3,6 @@
       - N'oubliez pas de sauvegarder pour afficher les changements.
 */
 
+const BIRTHDAY = '18.04.1982';
+
+const age = someCode(BIRTHDAY);
